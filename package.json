@@ -1,0 +1,11 @@
+{
+  "name": "ivanma-js-mentorship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  
+  },
+  "author": "Ivan Ma",
+  "license": "ISC"
+}

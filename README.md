@@ -1,1 +1,1 @@
-"# JS Mentorship Repository" 
+# JS Mentorship Repository
