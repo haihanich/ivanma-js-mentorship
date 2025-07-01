@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  
+    "ch-01": "node books/eloquentjs/chapters/01-ch-val.js"
   },
   "author": "Ivan Ma",
   "license": "ISC"
