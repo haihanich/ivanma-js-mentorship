@@ -9,5 +9,6 @@
 ## Запуск примеров
 
 ```bash
-npm run charpter-01
+npm run ch-01
+npm run ch-01-ex
 ```
