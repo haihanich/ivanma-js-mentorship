@@ -6,7 +6,9 @@
   "scripts": {
     "introduction": "node books/eloquentjs/chapters/introduction.js",
     "ch-01": "node books/eloquentjs/chapters/01-ch-val.js",
-    "ch-01-ex": "node books/eloquentjs/experiments/01-ch-val.js"
+    "ch-01-ex": "node books/eloquentjs/experiments/01-ch-val.js",
+    "ch-02": "node books/eloquentjs/chapters/02-ch-structure.js",
+    "ch-02-task": "node books/eloquentjs/tasks/02-ch-structure.js"
   },
   "author": "Ivan Ma",
   "license": "ISC"
